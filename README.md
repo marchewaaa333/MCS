@@ -6,4 +6,5 @@ MMCF Is made to use it with Klipper.
 To make MMCF you will need: 
  - 2-5 mk8 extruders (like the ender 3 ones). You can print them or get them for dirt cheap.
  - Second motherboard (you can use the creality v1.1.4 or any other that is compatible with klipper) 
-
+# Printed parts
+Use PETG / ABS / ASA for printing the parts (DON'T USE PLA!!). At least 30% infill Honeycomb / Gyroid With 3 wall loops. 
